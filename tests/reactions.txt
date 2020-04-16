@@ -1,0 +1,360 @@
+      se75    n se74                       ks02 v   -8.02730E+00          
+
+      br75    p se74                       ths8rv   -4.21525e+00          
+
+      kr78  he4 se74                       ths8rv   -4.39191e+00          
+
+      kr79    n kr78                       ks02 v   -8.33330E+00          
+
+      kr81    n kr80                       ks02 v   -7.87330E+00          
+
+      rb79    p kr78                       ths8rv   -3.91224e+00          
+
+      rb81    p kr80                       ths8rv   -4.85130e+00          
+
+      sr82  he4 kr78                       ths8rv   -4.25589e+00          
+
+      sr84  he4 kr80                       ths8rv   -5.18112e+00          
+
+      sr85    n sr84                       ks02 v   -8.52430E+00          
+
+       y85    p sr84                       ths8rv   -4.48239e+00          
+
+      zr88  he4 sr84                       ths8rv   -5.39932e+00          
+
+     cd107    ncd106                       ks02 v   -7.92930E+00          
+
+     cd109    ncd108                       ks02 v   -7.32230E+00          
+
+     in107    pcd106                       ths8rv   -3.71605e+00          
+
+     in109    pcd108                       ths8rv   -4.52539e+00          
+
+     sn110  he4cd106                       ths8rv   -1.13631e+00          
+
+     sn112  he4cd108                       ths8rv   -1.83386e+00          
+
+     sn113    nsn112                       ks02 v   -7.74330E+00          
+
+     sn115    nsn114                       ks02 v   -7.54830E+00          
+
+     sb113    psn112                       ths8rv   -3.04745e+00          
+
+     sb115    psn114                       ths8rv   -3.73147e+00          
+
+     te116  he4sn112                       ths8rv    9.67391e-01          
+
+     te118  he4sn114                       ths8rv    4.14941e-01          
+
+     te121    nte120                       ks02 v   -7.24730E+00          
+
+      i121    pte120                       ths8rv   -4.17164e+00          
+
+     xe124  he4te120                       ths8rv   -6.80432e-01          
+
+     xe125    nxe124                       ks02 v   -7.60330E+00          
+
+     xe127    nxe126                       ks02 v   -7.24730E+00          
+
+     cs125    pxe124                       ths8rv   -3.71644e+00          
+
+     cs127    pxe126                       ths8rv   -4.36045e+00          
+
+     ba128  he4xe124                       ths8rv   -1.66327e-01          
+
+     ba130  he4xe126                       ths8rv   -5.17983e-01          
+
+     ba131    nba130                       ks02 v   -7.49330E+00          
+
+     ba133    nba132                       ks02 v   -7.19030E+00          
+
+     la131    pba130                       ths8rv   -3.79662e+00          
+
+     la133    pba132                       ths8rv   -4.34851e+00          
+
+     ce134  he4ba130                       ths8rv    7.04000e-04          
+
+     ce136  he4ba132                       ths8rv   -4.58407e-01          
+
+     ce137    nce136                       ks02 v   -7.48130E+00          
+
+     pr137    pce136                       rath v   -3.99600e+00          
+
+     nd140  he4ce136                       rath v   -4.07000e-01          
+
+     er165    ner164                       ks02 v   -6.64930E+00          
+
+     tm165    per164                       rath v   -4.27500e+00          
+
+     yb168  he4er164                       rath v    1.95100e+00          
+
+       he4 ge70 se74                       ths8r     4.07454e+00          
+
+         p as73 se74                       ths8r     8.54500e+00          
+
+         n se73 se74                       ths8r     1.20664e+01          
+
+       he4 se74 kr78                       ths8r     4.39191e+00          
+
+       he4 se76 kr80                       ths8r     5.06536e+00          
+
+         p br77 kr78                       ths8r     8.23378e+00          
+
+         p br79 kr80                       ths8r     9.11295e+00          
+
+         n kr77 kr78                       ths8r     1.20816e+01          
+
+         n kr79 kr80                       ks02      1.15223E+01          
+
+       he4 kr80 sr84                       ths8r     5.18112e+00          
+
+         p rb83 sr84                       ths8r     8.86287e+00          
+
+         n sr83 sr84                       ths8r     1.19246e+01          
+
+       he4pd102cd106                       ths8r     1.63234e+00          
+
+       he4pd104cd108                       ths8r     2.28720e+00          
+
+         pag105cd106                       ths8r     7.35348e+00          
+
+         pag107cd108                       ths8r     8.13955e+00          
+
+         ncd105cd106                       ths8r     1.08737e+01          
+
+         ncd107cd108                       ths8r     1.03388e+01          
+
+       he4cd108sn112                       ths8r     1.83386e+00          
+
+       he4cd110sn114                       ths8r     2.63283e+00          
+
+         pin111sn112                       ths8r     7.55451e+00          
+
+         pin113sn114                       ths8r     8.48025e+00          
+
+         nsn111sn112                       ths8r     1.07878e+01          
+
+         nsn113sn114                       ths8r     1.02992e+01          
+
+       he4sn116te120                       ths8r     3.01396e-01          
+
+         psb119te120                       ths8r     7.21612e+00          
+
+         nte119te120                       ths8r     1.02915e+01          
+
+       he4te120xe124                       ths8r     6.80432e-01          
+
+       he4te122xe126                       ths8r     1.27942e+00          
+
+         p i123xe124                       ths8r     7.00576e+00          
+
+         p i125xe126                       ths8r     7.62108e+00          
+
+         nxe123xe124                       ths8r     1.04829e+01          
+
+         nxe125xe126                       ths8r     1.00478e+01          
+
+       he4xe126ba130                       ths8r     5.17983e-01          
+
+       he4xe128ba132                       ths8r     9.99718e-01          
+
+         pcs129ba130                       ths8r     7.05015e+00          
+
+         pcs131ba132                       ths8r     7.66403e+00          
+
+         nba129ba130                       ths8r     1.02684e+01          
+
+         nba131ba132                       ths8r     9.82237e+00          
+
+       he4ba132ce136                       hg12      4.58407e-01          
+
+         pla135ce136                       rath      7.12900e+00          
+
+         nce135ce136                       ks02      9.96430E+00          
+
+       he4dy160er164                       rath     -1.30400e+00          
+
+         pho163er164                       rath      6.85400e+00          
+
+         ner163er164                       rath      8.84700e+00          
+
+       he4 ge71    n se74                  ths8rv   -3.34032e+00          
+
+       he4 as71    p se74                  ths8rv   -5.45656e-01          
+
+         p as74    n se74                  ths8r     5.70422e-01          
+
+       he4 se75    n kr78                  ths8rv   -3.63569e+00          
+
+       he4 se77    n kr80                  ths8rv   -2.35350e+00          
+
+         n br74    p se74                  ths8r     7.68900e+00          
+
+       he4 br75    p kr78                  ths8r     1.76654e-01          
+
+         p br77  he4 se74                  ths8r     3.84188e+00          
+
+       he4 br77    p kr80                  ths8rv   -2.06477e-01          
+
+         p br78    n kr78                  ths8rv   -5.49210e-02          
+
+         p br80    n kr80                  ths8r     1.22067e+00          
+
+         n kr77  he4 se74                  ths8r     7.68969e+00          
+
+       he4 kr81    n sr84                  ths8rv   -2.69174e+00          
+
+         n rb78    p kr78                  ths8r     8.02585e+00          
+
+         n rb80    p kr80                  ths8r     6.49934e+00          
+
+         p rb81  he4 kr78                  ths8r     3.58896e+00          
+
+       he4 rb81    p sr84                  ths8r     3.29824e-01          
+
+         p rb83  he4 kr80                  ths8r     3.68174e+00          
+
+         p rb84    n sr84                  ths8r     1.13554e-01          
+
+         n sr81  he4 kr78                  ths8r     8.29842e+00          
+
+         n sr83  he4 kr80                  ths8r     6.74345e+00          
+
+         n  y84    p sr84                  ths8r     7.26805e+00          
+
+         p  y87  he4 sr84                  ths8r     2.49403e+00          
+
+         n zr87  he4 sr84                  ths8r     6.94695e+00          
+
+       he4pd103    ncd106                  ths8rv   -5.99301e+00          
+
+       he4pd105    ncd108                  ths8rv   -4.80690e+00          
+
+       he4ag103    pcd106                  ths8rv   -2.52292e+00          
+
+       he4ag105    pcd108                  ths8rv   -2.67972e+00          
+
+         pag106    ncd106                  ths8rv   -5.87187e-01          
+
+         pag108    ncd108                  ths8r     8.68143e-01          
+
+       he4cd109    nsn112                  ths8rv   -5.49356e+00          
+
+       he4cd111    nsn114                  ths8rv   -4.34302e+00          
+
+         nin106    pcd106                  ths8r     7.30839e+00          
+
+         nin108    pcd108                  ths8r     5.91907e+00          
+
+         pin109  he4cd106                  ths8r     5.50781e+00          
+
+       he4in109    psn112                  ths8rv   -2.69153e+00          
+
+         pin111  he4cd108                  ths8r     5.72065e+00          
+
+       he4in111    psn114                  ths8rv   -2.69888e+00          
+
+         pin112    nsn112                  ths8rv   -1.17144e-01          
+
+         pin114    nsn114                  ths8r     1.20640e+00          
+
+         nsn109  he4cd106                  ths8r     1.01397e+01          
+
+         nsn111  he4cd108                  ths8r     8.95393e+00          
+
+       he4sn117    nte120                  ths8rv   -6.64176e+00          
+
+         nsb112    psn112                  ths8r     7.84289e+00          
+
+         nsb114    psn114                  ths8r     6.82786e+00          
+
+         psb115  he4sn112                  ths8r     6.52192e+00          
+
+         psb117  he4sn114                  ths8r     6.78021e+00          
+
+       he4sb117    pte120                  ths8rv   -4.10422e+00          
+
+         psb120    nte120                  ths8r     1.97776e-01          
+
+         nte115  he4sn112                  ths8r     1.22449e+01          
+
+         nte117  he4sn114                  ths8r     1.11104e+01          
+
+       he4te121    nxe124                  ths8rv   -6.53745e+00          
+
+       he4te123    nxe126                  ths8rv   -5.64976e+00          
+
+         n i120    pte120                  ths8r     6.39735e+00          
+
+       he4 i121    pxe124                  ths8rv   -3.49121e+00          
+
+         p i123  he4te120                  ths8r     6.32533e+00          
+
+       he4 i123    pxe126                  ths8rv   -3.63883e+00          
+
+         p i124    nxe124                  ths8rv   -4.87204e-01          
+
+         p i126    nxe126                  ths8r     4.75654e-01          
+
+         nxe123  he4te120                  ths8r     9.80244e+00          
+
+       he4xe127    nba130                  ths8rv   -6.70559e+00          
+
+       he4xe129    nba132                  ths8rv   -5.90895e+00          
+
+         ncs124    pxe124                  ths8r     6.71111e+00          
+
+         ncs126    pxe126                  ths8r     5.60594e+00          
+
+         pcs127  he4xe124                  ths8r     6.28414e+00          
+
+       he4cs127    pba130                  ths8rv   -3.84247e+00          
+
+         pcs129  he4xe126                  ths8r     6.53217e+00          
+
+       he4cs129    pba132                  ths8rv   -3.92964e+00          
+
+         pcs130    nba130                  ths8rv   -4.21167e-01          
+
+         pcs132    nba132                  ths8r     4.96569e-01          
+
+         nba127  he4xe124                  ths8r     1.04909e+01          
+
+         nba129  he4xe126                  ths8r     9.75038e+00          
+
+       he4ba133    nce136                  rath v   -6.71000e+00          
+
+         nla130    pba130                  rath      6.14800e+00          
+
+         nla132    pba132                  rath      5.49000e+00          
+
+         pla133  he4ba130                  rath      6.80700e+00          
+
+       he4la133    pce136                  rath v   -3.69700e+00          
+
+         pla135  he4ba132                  rath      6.64900e+00          
+
+         pla136    nce136                  rath v   -3.10000e-01          
+
+         nce133  he4ba130                  rath      1.02350e+01          
+
+         nce135  he4ba132                  rath      9.45700e+00          
+
+         npr136    pce136                  rath      5.90900e+00          
+
+         ppr139  he4ce136                  rath      6.53000e+00          
+
+         nnd139  he4ce136                  rath      1.00990e+01          
+
+       he4dy161    ner164                  rath v   -7.75900e+00          
+
+       he4ho161    per164                  rath v   -6.11700e+00          
+
+         pho164    ner164                  rath      1.80000e-01          
+
+         ntm164    per164                  rath      4.74500e+00          
+
+         ptm167  he4er164                  rath      8.26600e+00          
+
+         nyb167  he4er164                  rath      1.10030e+01          
+
